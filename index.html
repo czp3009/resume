@@ -24,7 +24,9 @@
         client.open("GET", "resume.md");
         client.onreadystatechange = function () {
             if (client.readyState === 4) {
-                document.getElementById("content").innerHTML = marked(client.responseText);
+                setTimeout(function () {
+                    document.getElementById("content").innerHTML = marked(client.responseText);
+                }, 1000);
             }
         };
         client.send();
