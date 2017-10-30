@@ -1,0 +1,12 @@
+body {
+    padding: 10px 50px 50px 50px;
+}
+
+.markdown {
+    margin: 20px 150px 50px 150px;
+}
+
+h2 {
+    padding-bottom: 8px;
+    border-bottom: 1px solid #eee;
+}
