@@ -74,7 +74,7 @@
 
 ## 专业技能
 
-- 熟练使用 OpenJDK8 / Spring Boot / Spring Data JPA / Spring Security / Spring Session / Hibernate / Hibernate-validation / Thymeleaf / Maven / Gradle / GIT / ActiveMQ / Reactor2 / MySQL / SQL Server / SWING
+- 熟练使用 OpenJDK8 / Spring Boot / Spring Data JPA / Spring Security / Spring Session / Hibernate / Hibernate-validation / Thymeleaf / Maven / Gradle / GIT / ActiveMQ / Reactor3 / MySQL / SQL Server / SWING
 - 熟练使用 Bootstrap / ReactJS / jQuery / jQuery-validation / AJAX / Font-awesome / webpack
 - 了解 Spring-cloud / dubbo / ASP .Net Core / vue
 - 了解 Python , 具有一定 Python 简易脚本编写能力.
