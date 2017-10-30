@@ -1,4 +1,4 @@
-##个人信息
+## 个人信息
 
 - 陈志鹏 男 21岁
 - 本科学历 浙江大学宁波理工学院
@@ -9,7 +9,7 @@
 - 手机: 15336593671
 - 实习意向: Java 后端开发
 
-##项目经历
+## 项目经历
 
 - 学校内部使用的软件工程专业信息展示网站
     - 该应用主要提供文章展示功能, 普通用户可以浏览管理员许可的文章. 管理员可以增加、修改、删除文章以及文章分类的管理. 超级管理员可以增加管理员和修改其他管理员信息. 同时附有系统负载显示和文章数量以及浏览统计显示.
@@ -72,7 +72,7 @@
     - 项目地址: https://github.com/czp3009/wordpress-lottery
     - WordPress 插件商店: https://wordpress.org/plugins/wp-lottery/
 
-##　专业技能
+## 专业技能
 
 - 熟练使用 OpenJDK8 / Spring Boot / Spring Data JPA / Spring Security / Spring Session / Hibernate / Hibernate-validation / Thymeleaf / Maven / Gradle / GIT / ActiveMQ / Reactor2 / MySQL / SQL Server / SWING
 - 熟练使用 Bootstrap / ReactJS / jQuery / jQuery-validation / AJAX / Font-awesome / webpack
