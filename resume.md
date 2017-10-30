@@ -23,7 +23,7 @@
     - 项目地址: https://github.com/czp3009/speciality-website
     
 - Mystery 商城
-    - 该项目由一名需要保研加分的异学校同学委托, 用于参加大学生电子商务竞赛.
+    - 该项目用于参加 大学生电子商务竞赛.
     - 该项目获国赛二等奖.
     - 参赛作品为一款名为 Mr.rui (又名 Mystery) 的 VR 游戏. 该网站为其提供在线商城和交易相关后端 API.
     - 主要涉及到的后端技术: Spring Boot / Spring Security / Spring Session / Spring Data JPA / Hibernate / MySQL / FastJSON / Apache HttpClient
