@@ -24,7 +24,6 @@
     
 - Mystery 商城
     - 该项目用于参加 大学生电子商务竞赛.
-    - 该项目获国赛二等奖.
     - 参赛作品为一款名为 Mr.rui (又名 Mystery) 的 VR 游戏. 该网站为其提供在线商城和交易相关后端 API.
     - 主要涉及到的后端技术: Spring Boot / Spring Security / Spring Session / Spring Data JPA / Hibernate / MySQL / FastJSON / Apache HttpClient
     - 主要涉及到的前端技术: Thymeleaf / Webjars / BootStrap / Bootstrap-dialog / Ajax / ReactJs / jQuery / jQuery-validation / Font-Awesome / CSS 3D Animation / WebGL
