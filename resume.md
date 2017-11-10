@@ -43,6 +43,14 @@
     - 项目地址: https://github.com/czp3009/danmuji
     - 正着手编写全套 B站 API 调用库并使用 JavaFX 重构弹幕机.
     
+- Bilibili Android API 调用库
+    - 该调用库中使用的 API 来自对 Bilibili Android APP 的逆向工程和流量分析
+    - 该项目提供对所有 Bilibili Android API 的调用
+    - 分为几个部分: OAuth2, Live, Bangumi, BiliGo, Im9, Rank, Search, User, Vip
+    - 主要使用的框架和技术: OkHttpClient / Retrofit / Gson / Event Bus / Thread pool / NIO Selector
+    - 项目地址: https://github.com/czp3009/bilibili-api
+    - 项目处于开发阶段, 未完全完工且文档不完全
+    
 - Minecraft 屠龙杀小游戏插件
     - Minecraft 是一个在国外比较流行的由 Java 编写的开放世界的客户端游戏, 我为他编写了一个服务端插件.
     - 屠龙杀是一个国内 Minecraft 同好群策划的一种在 Minecraft 内游玩的小游戏, 为了不需要 "上帝" 角色就可以进行游戏, 委托我编写此插件.
