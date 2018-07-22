@@ -1,4 +1,5 @@
-import {Component} from "preact";
+// noinspection ES6UnusedImports
+import {Component, h} from "preact";
 import Loader from "react-loader-spinner";
 import Markdown from "react-markdown";
 

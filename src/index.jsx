@@ -1,4 +1,5 @@
-import {render} from "preact";
+// noinspection ES6UnusedImports
+import {h, render} from "preact";
 import Resume from "./components/page/Resume";
 import markdownFilePath from "../public/resume.md";
 
