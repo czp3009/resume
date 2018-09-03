@@ -9,7 +9,7 @@
 
 ## 专业技能
 - 熟练使用 Spring Boot / Spring Data JPA / Spring Security / Thymeleaf / Gradle / GIT / RabbitMQ / Retrofit / Reactor3 / MyBatis / MySQL / JavaFX
-- 熟练掌握 Kotlin 语言以及使用 Kotlin 进行 Spring 开发的方案.
+- 熟练掌握 Kotlin 语言以及使用 Kotlin 进行 Spring 开发.
 - 熟练使用 React / React-Dom / React-Router / parcel / yarn
 - 熟悉 Spring Cloud, 知晓 Dubbo.
 - 了解 Python, 可以编写简易 Python 脚本.
@@ -38,7 +38,7 @@
     - 该项目的主要功能是接收客户数据来生成面单并打印.
     - 该项目的云端部分用于管理面单模板并生成面单图片. 本地部分用于在仓库内缓存拉取的图片并打印面单.
     - 本人在该项目中负责开发云端部分中的面单管理功能, 包括前端的面单模板设计器与后端交互所需的各个 API. 负责开发云端部分中的本地服务反向上线与存活性检查功能, 云端与本地的数据交互 API, 以及本地服务打印失败的报警功能等.
-    - 同时负责数据库结构以及各 API 接口的设计.
+    - 同时还负责数据库结构以及各 API 接口的设计.
 
 - Bilibili API
     - 该项目用于方便的在 Java 中调用 Bilibili 的 API.
