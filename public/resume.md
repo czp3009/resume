@@ -28,7 +28,7 @@
     - 2017-04 至 2018-06
 
 ## 项目经历
-- 杭州拓麦科技有限公司内部用 Spring Boot 脚手架项目
+- 杭州拓麦科技有限公司内部使用的 Spring Boot 脚手架项目
     - 由于开始新项目总是很麻烦, 因此本人开发了该项目用于快速开始新的 Spring Boot 项目.
     - 项目中包含了方便开发的一些工具类, 例如 Protobuf 封装类型的工具类, Swagger(SpringFox) 支持 Protobuf 用的插件类.
     - 使用 Spring Boot AutoConfigure 实现一些内容的自动配置(starter), 例如自编写的 MyBatis 插件的自动注册使其支持标准 JPA 生命周期注解(@PostPersist, @PreUpdate 等).
