@@ -37,6 +37,7 @@ export default class Resume extends Component {
 
     render(props, state, context) {
         if (state.errorMessage !== null) {
+            // noinspection JSXNamespaceValidation
             return <h1>{state.errorMessage}</h1>
         }
         if (state.markdownText === null) {

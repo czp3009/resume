@@ -6,5 +6,6 @@ import markdownFilePath from "../public/resume.md";
 const loaderHeight = 100;
 const loaderWidth = 100;
 
+// noinspection JSXNamespaceValidation
 render(<Resume loaderHeight={loaderHeight} loaderWidth={loaderWidth}
                markdownUrl={markdownFilePath}/>, document.getElementById("root"));
